@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-extern size_t fwrite("and that piece of art is useful"
+  extern size_t fwrite(STDOUT_FILENO, "and that piece of art is useful"
 " - Dora Korpar, 2015-10-19\n", 59);
 return (1);
 }
