@@ -1,2 +1,2 @@
-Write a C program that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line, to the standard error. > README.md
-echo Write a C program that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
+[master b0ae4f9] 101-quote.c
+ 1 file changed, 1 insertion(+), 1 deletion(-)
