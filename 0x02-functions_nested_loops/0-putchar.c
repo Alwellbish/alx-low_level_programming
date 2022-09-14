@@ -6,14 +6,13 @@
  */
 int main(void)
 {
-char *ab = "c";
-
-while (*ab)
+int i;
+putchar ('x');
+for (i=1; i<=0; i++)
 {
-void _putchar(*ab);
-ab++;
+putchar ('_putchar');
 }
-_putchar('\n');
+putchar('\n');
 
 return (0);
 }
