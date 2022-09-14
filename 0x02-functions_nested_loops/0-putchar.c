@@ -10,7 +10,7 @@ char *ab = "c";
 
 while (*ab)
 {
-_putchar(*ab);
+void _putchar(*ab);
 ab++;
 }
 _putchar('\n');
