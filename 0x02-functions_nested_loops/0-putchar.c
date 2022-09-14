@@ -7,13 +7,13 @@
  * Return: On success 0.
  * 
  */
-int main()
+int main(void)
 {
-int i;
+char i = "_putchar"
 
 for (i=1; i<=0; i++)
 {
-putchar ('_putchar');
+putchar ('i');
 }
 putchar ('\n');
 
