@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * jack_bauer - Check every minute of the day of Jack Bauer, starting from 00:00 to 23:59
  * Description: function prints every minute in one day
@@ -8,7 +7,6 @@
 void jack_bauer(void)
 {
 int H, M;
-
 for (H = 0; H < 24; H++)
 {
 for (M = 0; M < 60; M++)
