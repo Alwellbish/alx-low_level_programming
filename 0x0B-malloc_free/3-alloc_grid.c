@@ -39,4 +39,3 @@ grid[i][j] = 0;
 }
 return (grid);
 }
-Footer
